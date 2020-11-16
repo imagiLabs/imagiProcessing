@@ -13,6 +13,6 @@ Processing [uses](https://en.wikipedia.org/wiki/Processing_(programming_language
 
 My personal favorite is the [Coding Train](https://www.youtube.com/user/shiffman) YouTube Channel, where you can learn all of the basic programming concepts for Processing in Java and p5 JavaScript library. You can also learn from the Processing IDE itself by going to File > Examples, after downloading the IDE on your computer.
 
-### How to run projects in this repository?
+## How to run projects in this repository?
 
 First, you will need to download the Processing IDE from [this](https://processing.org/download/) website. You will then have to download each folder and run the file that ends with ".pde". 
